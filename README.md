@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**lukewbarber/lukewbarber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 my name is Luke Barber and I am a graduate student at the University of St. Thomas, in St. Paul, MN, pursuing a M.S. in Data Science. Currently working as a Black Belt, within the Technology, Transformation, and Services organization within 3M. Thanks for taking the time to check out my personal repo - best wishes!
 
 - 🔭 I’m currently working on ...
 Web Application Development & Design
@@ -38,4 +33,4 @@ He/Him/His
 - ⚡ Fun fact: ...
 I always wanted to be a Sumo Wrestler when I grew up. 
 
--->
+
