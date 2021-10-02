@@ -2,12 +2,12 @@
 
 - 🔭 I’m currently working on ...
 Web Application Development & Design
-Business Transformation 
+| Business Transformation 
 
 - 🌱 I’m currently learning ...
 Project Management
-Leadership 
-Lean Six Sigma
+| Leadership 
+| Lean Six Sigma
 
 - 👯 I’m looking to collaborate on ...
 Non-profit Data Strategy
@@ -17,12 +17,12 @@ Mentorship
 
 - 💬 Ask me about ...
 Data
-Economics
-Python
-SQL
-Project Management
-Leadership
-Automation
+| Economics
+| Python
+| SQL
+| Project Management
+| Leadership
+| Automation
 
 - 📫 How to reach me: ...
 lukewbarber@gmail.com
@@ -31,6 +31,6 @@ lukewbarber@gmail.com
 He/Him/His
 
 - ⚡ Fun fact: ...
-I always wanted to be a Sumo Wrestler when I grew up. 
+I've always wanted to be a Sumo Wrestler. 
 
 
